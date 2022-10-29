@@ -1,0 +1,15 @@
+.left {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.right {
+    background-color: #ffcc00;
+}
+
+.left,
+.right 
+{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
