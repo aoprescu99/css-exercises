@@ -1,0 +1,15 @@
+.paragraph{
+    background-color: #ffccff;
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+#first-div{
+    color: #33ccff;
+    font-size: 36px;
+}
+.paragraph.special{
+    font-size: 24px;
+    color: white;
+}
+#second-div{
+    background-color: #66ff66;
+}
